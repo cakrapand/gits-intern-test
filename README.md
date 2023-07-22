@@ -1,4 +1,4 @@
-![denseranking](https://github.com/cakrapand/gits-intern-test/assets/73237464/b873c83f-540c-45bd-8ad2-a556e244a9c1)# Balanced Bracket Problem
+# Balanced Bracket Problem
 
 ## Deskripsi
 Fungsi ```balancedBracket()``` adalah sebuah fungsi yang dapat memeriksa apakah sebuah string mengandung tanda kurung yang seimbang. Sebuah string dianggap seimbang jika setiap tanda kurung pembuka memiliki tanda kurung penutup yang sesuai dengan urutan yang benar. Fungsi ini akan mengembalikan ```YES``` jika seimbang dan ```NO``` jika tidak seimbang.
